@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.lab.failurereport.app-mergeReleaseResources-43:/layout/activity_main.xml",
+        "source": "com.lab.failurereport.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-mergeReleaseResources-43:/layout/nav_header.xml",
+        "source": "com.lab.failurereport.app-main-45:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-mergeReleaseResources-43:/layout/item_failure.xml",
+        "source": "com.lab.failurereport.app-main-45:/layout/item_failure.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-mergeReleaseResources-43:/layout/activity_detail.xml",
+        "source": "com.lab.failurereport.app-main-45:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-mergeReleaseResources-43:/layout/activity_report.xml",
+        "source": "com.lab.failurereport.app-main-45:/layout/activity_report.xml"
+    }
+]

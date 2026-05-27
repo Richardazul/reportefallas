@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-mergeDebugResources-44:/layout/fragment_home.xml",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-mergeDebugResources-44:/layout/activity_detail.xml",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-mergeDebugResources-44:/layout/activity_report.xml",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/activity_report.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-mergeDebugResources-44:/layout/fragment_tickets.xml",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/fragment_tickets.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-mergeDebugResources-44:/layout/nav_header.xml",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-mergeDebugResources-44:/layout/activity_report.xml",
+        "source": "com.lab.failurereport.app-main-47:/layout/activity_report.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-mergeDebugResources-44:/layout/item_failure.xml",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/item_failure.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-mergeDebugResources-44:/layout/fragment_history.xml",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/fragment_history.xml"
+    }
+]

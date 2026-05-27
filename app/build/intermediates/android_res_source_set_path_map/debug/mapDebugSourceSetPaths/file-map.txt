@@ -1,0 +1,8 @@
+com.lab.failurereport.app-pngs-0 /home/dhaws/Descargas/ComputoMovil/debugies/app/build/generated/res/pngs/debug
+com.lab.failurereport.app-resValues-1 /home/dhaws/Descargas/ComputoMovil/debugies/app/build/generated/res/resValues/debug
+com.lab.failurereport.app-updated_navigation_xml-2 /home/dhaws/Descargas/ComputoMovil/debugies/app/build/generated/updated_navigation_xml/debug
+com.lab.failurereport.app-packageDebugResources-3 /home/dhaws/Descargas/ComputoMovil/debugies/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.lab.failurereport.app-packageDebugResources-4 /home/dhaws/Descargas/ComputoMovil/debugies/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.lab.failurereport.app-debug-5 /home/dhaws/Descargas/ComputoMovil/debugies/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.lab.failurereport.app-debug-6 /home/dhaws/Descargas/ComputoMovil/debugies/app/src/debug/res
+com.lab.failurereport.app-main-7 /home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/res

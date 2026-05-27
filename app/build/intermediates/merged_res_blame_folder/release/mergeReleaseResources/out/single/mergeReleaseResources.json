@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_bg_photo_placeholder.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/bg_photo_placeholder.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/layout_activity_main.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/menu_toolbar_menu.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/layout_activity_report.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/layout/activity_report.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_ic_image_placeholder.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/ic_image_placeholder.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_ic_menu_hamburger.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/ic_menu_hamburger.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_ic_nav_add.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/ic_nav_add.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/layout_item_failure.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/layout/item_failure.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/layout_activity_detail.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/layout_nav_header.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/menu_nav_menu.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_ic_nav_list.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/ic_nav_list.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/xml_file_paths.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-release-44:/drawable_ic_fab_add.xml.flat",
+        "source": "com.lab.failurereport.app-main-45:/drawable/ic_fab_add.xml"
+    }
+]

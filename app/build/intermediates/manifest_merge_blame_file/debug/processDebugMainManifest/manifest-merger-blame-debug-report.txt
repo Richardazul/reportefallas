@@ -1,0 +1,192 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lab.failurereport"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="24"
+8-->INJECTED
+9        android:targetSdkVersion="36" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:4:5-65
+11-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:4:22-62
+12    <!-- Galería en Android 13+ -->
+13    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+13-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:6:5-76
+13-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:6:22-73
+14    <!-- Galería en Android 12 e inferior -->
+15    <uses-permission
+15-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:8:5-10:38
+16        android:name="android.permission.READ_EXTERNAL_STORAGE"
+16-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:9:9-64
+17        android:maxSdkVersion="32" />
+17-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:10:9-35
+18
+19    <uses-feature
+19-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:12:5-14:36
+20        android:name="android.hardware.camera"
+20-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:13:9-47
+21        android:required="false" />
+21-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:14:9-33
+22
+23    <permission
+23-->[androidx.core:core:1.16.0] /home/dhaws/.gradle/caches/9.3.1/transforms/42b2d75895bf9fc029f54d7c4fd7d9b7/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+24        android:name="com.lab.failurereport.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+24-->[androidx.core:core:1.16.0] /home/dhaws/.gradle/caches/9.3.1/transforms/42b2d75895bf9fc029f54d7c4fd7d9b7/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+25        android:protectionLevel="signature" />
+25-->[androidx.core:core:1.16.0] /home/dhaws/.gradle/caches/9.3.1/transforms/42b2d75895bf9fc029f54d7c4fd7d9b7/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+26
+27    <uses-permission android:name="com.lab.failurereport.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+27-->[androidx.core:core:1.16.0] /home/dhaws/.gradle/caches/9.3.1/transforms/42b2d75895bf9fc029f54d7c4fd7d9b7/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+27-->[androidx.core:core:1.16.0] /home/dhaws/.gradle/caches/9.3.1/transforms/42b2d75895bf9fc029f54d7c4fd7d9b7/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+28
+29    <application
+29-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:16:5-53:19
+30        android:allowBackup="true"
+30-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:17:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.16.0] /home/dhaws/.gradle/caches/9.3.1/transforms/42b2d75895bf9fc029f54d7c4fd7d9b7/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+33-->INJECTED
+34        android:icon="@drawable/ic_launcher_foreground"
+34-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:18:9-56
+35        android:label="@string/app_name"
+35-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:19:9-41
+36        android:roundIcon="@drawable/ic_launcher_foreground"
+36-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:20:9-61
+37        android:supportsRtl="true"
+37-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:21:9-35
+38        android:theme="@style/Theme.LabFailureReport" >
+38-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:22:9-54
+39        <activity
+39-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:24:9-31:20
+40            android:name="com.lab.failurereport.ui.MainActivity"
+40-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:25:13-44
+41            android:exported="true" >
+41-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:26:13-36
+42            <intent-filter>
+42-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:27:13-30:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:28:17-69
+43-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:28:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:29:17-77
+45-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:29:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:33:9-36:58
+49            android:name="com.lab.failurereport.ui.ReportActivity"
+49-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:34:13-46
+50            android:exported="false"
+50-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:35:13-37
+51            android:windowSoftInputMode="adjustResize" />
+51-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:36:13-55
+52        <activity
+52-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:38:9-40:40
+53            android:name="com.lab.failurereport.ui.DetailActivity"
+53-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:39:13-46
+54            android:exported="false" />
+54-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:40:13-37
+55
+56        <!-- FileProvider para compartir URIs de cámara de forma segura -->
+57        <provider
+57-->INJECTED
+58            android:name="androidx.core.content.FileProvider"
+58-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:44:13-62
+59            android:authorities="com.lab.failurereport.fileprovider"
+59-->INJECTED
+60            android:exported="false"
+60-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:46:13-37
+61            android:grantUriPermissions="true" >
+61-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:47:13-47
+62            <meta-data
+62-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:48:13-50:54
+63                android:name="android.support.FILE_PROVIDER_PATHS"
+63-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:49:17-67
+64                android:resource="@xml/file_paths" />
+64-->/home/dhaws/Descargas/ComputoMovil/debugies/app/src/main/AndroidManifest.xml:50:17-51
+65        </provider>
+66        <provider
+66-->[androidx.emoji2:emoji2:1.3.0] /home/dhaws/.gradle/caches/9.3.1/transforms/222436efdd9436a585400787509f2950/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+67            android:name="androidx.startup.InitializationProvider"
+67-->[androidx.emoji2:emoji2:1.3.0] /home/dhaws/.gradle/caches/9.3.1/transforms/222436efdd9436a585400787509f2950/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+68            android:authorities="com.lab.failurereport.androidx-startup"
+68-->[androidx.emoji2:emoji2:1.3.0] /home/dhaws/.gradle/caches/9.3.1/transforms/222436efdd9436a585400787509f2950/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+69            android:exported="false" >
+69-->[androidx.emoji2:emoji2:1.3.0] /home/dhaws/.gradle/caches/9.3.1/transforms/222436efdd9436a585400787509f2950/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+70            <meta-data
+70-->[androidx.emoji2:emoji2:1.3.0] /home/dhaws/.gradle/caches/9.3.1/transforms/222436efdd9436a585400787509f2950/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+71-->[androidx.emoji2:emoji2:1.3.0] /home/dhaws/.gradle/caches/9.3.1/transforms/222436efdd9436a585400787509f2950/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+72                android:value="androidx.startup" />
+72-->[androidx.emoji2:emoji2:1.3.0] /home/dhaws/.gradle/caches/9.3.1/transforms/222436efdd9436a585400787509f2950/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.lifecycle:lifecycle-process:2.9.0] /home/dhaws/.gradle/caches/9.3.1/transforms/130cfce6599d06ed5a304dd990f40bb1/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+74-->[androidx.lifecycle:lifecycle-process:2.9.0] /home/dhaws/.gradle/caches/9.3.1/transforms/130cfce6599d06ed5a304dd990f40bb1/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:30:17-78
+75                android:value="androidx.startup" />
+75-->[androidx.lifecycle:lifecycle-process:2.9.0] /home/dhaws/.gradle/caches/9.3.1/transforms/130cfce6599d06ed5a304dd990f40bb1/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+78                android:value="androidx.startup" />
+78-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+79        </provider>
+80
+81        <service
+81-->[androidx.room:room-runtime-android:2.7.1] /home/dhaws/.gradle/caches/9.3.1/transforms/713a0a12714742de7db27d759ae84ac1/transformed/room-runtime-release/AndroidManifest.xml:24:9-28:63
+82            android:name="androidx.room.MultiInstanceInvalidationService"
+82-->[androidx.room:room-runtime-android:2.7.1] /home/dhaws/.gradle/caches/9.3.1/transforms/713a0a12714742de7db27d759ae84ac1/transformed/room-runtime-release/AndroidManifest.xml:25:13-74
+83            android:directBootAware="true"
+83-->[androidx.room:room-runtime-android:2.7.1] /home/dhaws/.gradle/caches/9.3.1/transforms/713a0a12714742de7db27d759ae84ac1/transformed/room-runtime-release/AndroidManifest.xml:26:13-43
+84            android:exported="false" />
+84-->[androidx.room:room-runtime-android:2.7.1] /home/dhaws/.gradle/caches/9.3.1/transforms/713a0a12714742de7db27d759ae84ac1/transformed/room-runtime-release/AndroidManifest.xml:27:13-37
+85
+86        <receiver
+86-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+87            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+88            android:directBootAware="false"
+88-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+89            android:enabled="true"
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+90            android:exported="true"
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+91            android:permission="android.permission.DUMP" >
+91-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+93                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+94            </intent-filter>
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+96                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+97            </intent-filter>
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+99                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+99-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+99-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+100            </intent-filter>
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+102                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/dhaws/.gradle/caches/9.3.1/transforms/4dd5bc0eff8d92cba101a27bbb7e1a38/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+103            </intent-filter>
+104        </receiver>
+105    </application>
+106
+107</manifest>

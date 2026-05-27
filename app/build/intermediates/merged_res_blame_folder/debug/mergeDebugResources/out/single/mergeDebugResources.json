@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/menu_nav_menu.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/layout_item_failure.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/item_failure.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/layout_fragment_history.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/menu_toolbar_menu.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.lab.failurereport.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_bg_ticket_header.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/bg_ticket_header.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/layout_nav_header.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.lab.failurereport.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.lab.failurereport.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/menu_bottom_sections_menu.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/menu/bottom_sections_menu.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/xml_file_paths.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/xml/file_paths.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/layout_fragment_tickets.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/fragment_tickets.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/layout_activity_detail.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_ic_menu_hamburger.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/ic_menu_hamburger.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_bg_photo_placeholder.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/bg_photo_placeholder.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/layout_fragment_home.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_ic_nav_list.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/ic_nav_list.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_ic_arrow_back.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/layout_activity_report.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/layout/activity_report.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_ic_fab_add.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/ic_fab_add.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_ic_image_placeholder.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/ic_image_placeholder.xml"
+    },
+    {
+        "merged": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-debug-45:/drawable_ic_nav_add.xml.flat",
+        "source": "/home/dhaws/.gradle/daemon/9.3.1/com.lab.failurereport.app-main-47:/drawable/ic_nav_add.xml"
+    }
+]

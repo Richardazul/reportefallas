@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Directorio privado de la app en almacenamiento externo: no requiere permisos de escritura -->
+    <external-files-path
+        name="lab_images"
+        path="Pictures/" />
+</paths>
